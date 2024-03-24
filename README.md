@@ -1,6 +1,6 @@
-# Waste Segregation Project with Arduino
-
-This project aims to create an automated waste segregation system using Arduino. The system identifies and sorts waste into different categories based on predefined parameters.
+# JAGRITI
+JAGRITI stands for **J**ust **A** **G**reen  **R**esourceful **I**ntelligent **T**rash **I**nterface. It is a project focused on managing waste in an environmentally friendly and efficient manner. 
+The main aim is to create an automated waste segregation system using Arduino. The system identifies and sorts waste into different categories based on predefined parameters.
 
 ## Overview
 
@@ -8,7 +8,7 @@ The project uses sensors and actuators controlled by an Arduino board to detect 
 
 - **Sensors:** Ultrasonic Sensor, Moisture Sensor and IR Sensor.
 - **Actuators:** Servo motors.
-- **Arduino Board:** Utilized for processing sensor data and controlling actuators based on defined logic.
+- **Arduino Uno Board:** Utilized for processing sensor data and controlling actuators based on defined logic.
 
 ## Implementation
 

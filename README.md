@@ -1,0 +1,1 @@
+# JAGRITI-waste-segregator-Arduino-project

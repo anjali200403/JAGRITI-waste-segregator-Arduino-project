@@ -4,7 +4,7 @@ The main aim is to create an automated waste segregation system using Arduino. T
 
 ## Overview
 
-The project uses sensors and actuators controlled by an Arduino board to detect and segregate waste into categories such as organic, recyclable, and non-recyclable. It involves the following components:
+The project uses sensors and actuators controlled by an Arduino board to detect and segregate waste into categories such as dry and wet waste. It involves the following components:
 
 - **Sensors:** Ultrasonic Sensor, Moisture Sensor and IR Sensor.
 - **Actuators:** Servo motors.
